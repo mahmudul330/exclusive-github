@@ -1,0 +1,9 @@
+
+    Torch
+    Ahmia
+    Parazite
+    notEvil
+    Candle
+    Deepsearch
+    Complete Planet (engine/directory hybrid)
+    SearX
